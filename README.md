@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">👨‍💻 Full-stack developer with a passion for Laravel<br>🏢 Freelancer Web Dev<br>🎓 Always learning new things, especially Microsoft SQL Server & mobile dev<br>🏆 Open-source contributor & community supporter<br>🍪 Snack is my fuel, without it i cant make awesome code</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel" height="20" alt=" logo"/> Full-stack developer, especially for Laravel<br>🏢 Freelancer Web Dev<br>🎓 Always learning new things, especially Minecraft development & mobile dev<br>🏆 Open-source contributor & community supporter<br>🍪 Snack is my fuel, without it i cant make awesome code</p>
 
 ###
 
@@ -26,6 +27,10 @@
   <a href="https://x.com/kenndeclouv"><img alt="X" src="https://img.shields.io/twitter/follow/kenndeclouv"/></a>
 </p>
 
+<a href="https://discord.com/users/1158654757183959091">
+  <img src="https://lanyard.cnrad.dev/api/1158654757183959091" />
+</a>
+
 ###
 
 ---
@@ -38,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,6 +61,22 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discordjs" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="30" alt="kali logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sequalize" height="30" alt="sequalize logo"  />
 </div>
 
 ###
