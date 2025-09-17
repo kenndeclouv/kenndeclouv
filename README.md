@@ -1,5 +1,7 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co.com/wZ5D7Tm4/primary-logo.png"  />
+  <img height="150" src="https://files.catbox.moe/4s4vyh.png"  />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" />
 </div>
 
 ###
@@ -87,9 +89,22 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KennDeClouv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Kenndeclouv's%20stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennDeClouv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" height="150" alt="languages graph"  />
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KennDeClouv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Kenndeclouv's%20stats" height="150" alt="stats graph"  />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennDeClouv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" height="150" alt="languages graph"  />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennDeClouv&theme=tokyonight&hide_border=true" alt="streak graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
