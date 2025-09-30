@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,devto,figma,github,mysql,tailwind,discord,bots,discordjs,kali,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel" alt="skills logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,kali,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare" alt="skills logo"  />
 </div>
 
 ###
