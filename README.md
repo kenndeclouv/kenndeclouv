@@ -123,7 +123,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KennDeClouv/KennDeClouv/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 </div>
 
 ###
