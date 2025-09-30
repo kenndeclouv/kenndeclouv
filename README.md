@@ -22,11 +22,26 @@
 <h3 align="center">🔗 Connect with me!</h3>
 
 <p align="center">
-  <a href="https://instagram.com/kenndeclouv"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=CF4E92"/></a>
-  <a href="https://www.facebook.com/kenndeclouv"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white&color=517EC6"/></a>
-  <a href="https://www.linkedin.com/in/kenndeclouv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white&color=3C7EBB"/></a>
-  <a href="mailto:zuuliziluuz@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white&color=E45B5B"/></a>
-  <a href="https://x.com/kenndeclouv"><img alt="X" src="https://img.shields.io/twitter/follow/kenndeclouv"/></a>
+  <a href="https://instagram.com/kenndeclouv"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-CF4E92?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/kenndeclouv"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-517EC6?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kenndeclouv/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3C7EBB?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:zuuliziluuz@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-E45B5B?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/kenndeclouv"><img alt="X" src="https://img.shields.io/twitter/follow/kenndeclouv?style=social"/></a>
+  <br/>
+  <a href="https://discord.com/users/1158654757183959091"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="https://twitch.tv/kenndeclouv"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"/></a>
+  <a href="https://dev.to/kenndeclouv"><img alt="DEV Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/26546669/kenndeclouv"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/mTe5auIaPz/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://codepen.io/kenndeclouv"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white"/></a>
+  <br/>
+  <a href="https://replit.com/@kenndeclouv"><img alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white"/></a>
+  <a href="https://gitlab.com/kenndeclouv"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/></a>
+  <a href="https://medium.com/@kenndeclouv"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
+  <a href="https://hashnode.com/@kenndeclouv"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white"/></a>
+  <a href="https://dribbble.com/kenndeclouv"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/31qan4rbmsa6j2w5oivpjpxncpdq"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white"/></a>
+  <a href="https://github.com/sponsors/kenndeclouv"><img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-DB61A2?style=flat&logo=githubsponsors&logoColor=white"/></a>
 </p>
 <div align="center">
 <a href="https://discord.com/users/1158654757183959091" align="center">
