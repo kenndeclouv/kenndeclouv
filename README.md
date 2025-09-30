@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://kenndeclouv.me">
-  <img height="150" src="https://files.catbox.moe/4s4vyh.png"  />
+  <img height="150" src="https://files.catbox.moe/4s4vyh.png"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" />
     
@@ -123,7 +123,7 @@
 
 
 <div align="center">
-<img src="snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kenndeclouv/kenndeclouv/bd0b102233e9dd7dd74daaf907ff81ec534df47f/snake.svg" alt="Snake animation" />
 </div>
 
 ###
