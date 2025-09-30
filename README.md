@@ -90,21 +90,15 @@
 ###
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KennDeClouv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Kenndeclouv's%20stats" height="150" alt="stats graph"  />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennDeClouv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" height="150" alt="languages graph"  />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=KennDeClouv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Kenndeclouv's%20stats" height="150" alt="stats graph"  /> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=kenndeclouv&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage" />
+  <br>
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennDeClouv&locale=en&hide_title=false&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" alt="languages graph"  />
+  <br>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kenndeclouv&theme=tokyonight&layout=compact&border_radius=5px&custom_title=kenndeclouv%27s%20time%20Stats" alt="languages graph"  />
+  <br> -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennDeClouv&theme=tokyonight&hide_border=true" alt="streak graph" />
-      </td>
-    </tr>
-  </table>
+    
 </div>
 
 ###
