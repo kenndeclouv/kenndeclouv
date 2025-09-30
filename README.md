@@ -121,8 +121,15 @@
 
 ###
 
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/KennDeClouv/KennDeClouv/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
+
+---
+
+<h3 align="center">🎮 Games</h3>
+<br>
+<img src="https://starlightskins.lunareclipse.studio/render/wallpaper/herobrine_hill/kenndeclouv" />
