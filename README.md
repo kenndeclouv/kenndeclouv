@@ -61,90 +61,30 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=devto" height="30" alt="devto logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="30" alt="bots logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discordjs" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kali" height="30" alt="kali logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sublime" height="30" alt="sublime logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,devto,figma,github,mysql,tailwind,discord,bots,discordjs,kali,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel" alt="skills logo"  />
 </div>
 
 ###
 
 ---
-
 <h3 align="center">📊 My Github Stats</h3>
 
-###
-
 <div align="center">
-        <!-- <img src="https://github-readme-stats.vercel.app/api?username=KennDeClouv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Kenndeclouv's%20stats" height="150" alt="stats graph"  /> -->
-        <img src="https://github-readme-stats.vercel.app/api?username=kenndeclouv&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage" />
-  <br>
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennDeClouv&locale=en&hide_title=false&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" alt="languages graph"  />
-  <br>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kenndeclouv&theme=tokyonight&layout=compact&border_radius=5px&custom_title=kenndeclouv%27s%20time%20Stats" alt="languages graph"  />
-  <br> -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennDeClouv&theme=tokyonight&hide_border=true" alt="streak graph" />
-    
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kenndeclouv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenndeclouv&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennDeClouv&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
