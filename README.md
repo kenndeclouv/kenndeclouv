@@ -2,7 +2,7 @@
   <a href="https://kenndeclouv.me">
   <img height="150" src="https://files.catbox.moe/4s4vyh.png"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" /> -->
     
   </a>
 </div>
@@ -133,3 +133,9 @@
 <h3 align="center">🎮 Games</h3>
 <br>
 <img src="https://starlightskins.lunareclipse.studio/render/wallpaper/herobrine_hill/kenndeclouv" />
+
+---
+<div align="center">
+<img src="https://count.getloli.com/@:kenndeclouv?name=%3Akenndeclouv&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+  
+</div>
