@@ -96,7 +96,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=kenndeclouv&theme=darkhub&column=6&row=1&margin-w=6&margin-h=30&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kenndeclouv&theme=darkhub&column=4&row=1&margin-w=6&margin-h=30&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
