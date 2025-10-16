@@ -16,7 +16,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="20" alt=" logo"/> Full-stack developer, especially for Laravel<br>🏢 Freelancer Web Dev<br>🎓 Always learning new things, especially Minecraft development & mobile dev<br>🏆 Open-source contributor & community supporter<br>🍪 Snack is my fuel, without it i cant make awesome code</p>
+  <img src="https://skillicons.dev/icons?i=laravel" height="20" alt=" logo"/> Software Engineer with a deep expertise in Laravel<br><img src="https://skillicons.dev/icons?i=bash" height="20" alt=" logo"/> On a freelance mission to build and deploy incredible web applications.<br><img src="https://skillicons.dev/icons?i=devto" height="20" alt=" logo"/> Diving deeper into the world of programmer<br>🏆 Open-source contributor & community supporter<br>🍪 Snack is my fuel, without it i cant make awesome code</p>
 
 ###
 
@@ -61,7 +61,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,kali,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare,workers,nginx" alt="skills logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,nodejs,bun,devto,figma,mysql,tailwind,discord,bots,discordjs,kali,linux,mongodb,redis,sqlite,postman,sass,sequelize,express,github,git,gitlab,notion,npm,replit,vscode,sublime,vercel,cloudflare,workers,nginx,sentry" alt="skills logo"  />
 </div>
 
 ###
