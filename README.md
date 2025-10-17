@@ -48,7 +48,7 @@
 </p>
 <div align="center">
 <a href="https://discord.com/users/1158654757183959091" align="center">
-  <img src="https://lanyard.cnrad.dev/api/1158654757183959091" />
+  <img src="https://lanyard.cnrad.dev/api/1158654757183959091?theme=dark&showDisplayName=true" />
 </a>
 </div>
 
