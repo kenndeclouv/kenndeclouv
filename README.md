@@ -35,7 +35,6 @@
   <a href="https://twitch.tv/kenndeclouv"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"/></a>
   <a href="https://dev.to/kenndeclouv"><img alt="DEV Community" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/26546669/kenndeclouv"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/mTe5auIaPz/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
   <a href="https://codepen.io/kenndeclouv"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white"/></a>
   <br/>
   <a href="https://replit.com/@kenndeclouv"><img alt="Replit" src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white"/></a>
