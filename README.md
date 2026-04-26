@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://kenndeclouv.me">
-  <img height="150" src="https://files.catbox.moe/4s4vyh.png"/>
+  <a href="https://kenndeclouv.com">
+  <img src="https://media.discordapp.net/attachments/1497896003645210634/1497896863766941706/image.png?ex=69ef30a9&is=69eddf29&hm=6e635852eeb0e2fee61b076a892954b0e32e0c71400297d92f0e1120c130d923&=&format=webp&quality=lossless"/>
   <br>
   </a>
 </div>
@@ -14,7 +14,7 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="20" alt=" logo"/> Software Engineer with a deep expertise in Laravel<br><img src="https://skillicons.dev/icons?i=bash" height="20" alt=" logo"/> On a freelance mission to build and deploy incredible web applications.<br><img src="https://skillicons.dev/icons?i=devto" height="20" alt=" logo"/> Diving deeper into the world of programmer<br>🏆 Open-source contributor & community supporter<br>🍪 Snack is my fuel, without it i cant make awesome code</p>
+  <img src="https://skillicons.dev/icons?i=laravel" height="20" alt=" logo"/> Software Engineer with a deep expertise in Laravel<br><img src="https://skillicons.dev/icons?i=bash" height="20" alt=" logo"/> On a freelance mission to build and deploy incredible web applications.<br><img src="https://skillicons.dev/icons?i=devto" height="20" alt=" logo"/> Diving deeper into the world of programmer<br>🏆 Open-source contributor & community supporter<br>🍪 Snack is my fuel, without it i cant make awesome code<br>🌐 Wanna see my website? <a href="https://kenndeclouv.com">kenndeclouv.com</a><br></p>
 
 ###
 
