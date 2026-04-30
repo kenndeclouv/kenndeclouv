@@ -120,7 +120,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kenndeclouv/kenndeclouv/6d0af3712bdd3e51c8c546c83cbec0b40929af6e/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kenndeclouv/kenndeclouv/refs/heads/main/snake.svg" alt="Snake animation" />
 </div>
 
 ###
