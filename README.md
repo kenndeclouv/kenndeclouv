@@ -78,7 +78,12 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KennDeClouv&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenndeclouv&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenndeclouv&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" alt="contribution graph" />
       </td>
     </tr>
   </table>
@@ -120,7 +125,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kenndeclouv/kenndeclouv/refs/heads/main/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kenndeclouv/kenndeclouv/refs/heads/main/snake.svg" alt="Snake animation" />
 </div>
 
 ###
